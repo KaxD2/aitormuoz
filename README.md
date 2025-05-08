@@ -1,4 +1,4 @@
-**Taller Github**
+**Taller Github**<br>
 Este repositorio contiene información para alojar un proyecto de documentación en GitHub.
 
 **Anuncios y pre-requisitos**
